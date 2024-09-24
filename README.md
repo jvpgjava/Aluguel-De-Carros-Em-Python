@@ -23,8 +23,8 @@ Este projeto é um sistema simples de aluguel de veículos, desenvolvido em Pyth
    - Execute o comando:
      ```bash
      python sistema_aluguel.py
-   - Ou utilize uma IDE para abrir o arquivo e executar.
      ```
+   - Ou utilize uma IDE para abrir o arquivo e executar.  
 
 3. **Interagir com o sistema**:
    - Após a execução, você verá um menu com as seguintes opções:
