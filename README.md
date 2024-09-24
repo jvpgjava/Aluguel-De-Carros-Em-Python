@@ -1,7 +1,7 @@
 # Sistema de Aluguel de Veículos
 
 # Descrição
-Este projeto é um sistema simples de aluguel de veículos, desenvolvido em Python, que permite gerenciar um catálogo de veículos disponíveis para locação. O sistema é capaz de adicionar veículos, listar os disponíveis, alugar e devolver veículos, proporcionando uma interface interativa para o usuário. Para acesso a pasta onde está o arquivo do código, basta acessar a pasta com o nome de Aluguel De Carros e em AluguelDeCarros.py .
+Este projeto é um sistema simples de aluguel de veículos, desenvolvido em Python, que permite gerenciar um catálogo de veículos disponíveis para locação. O sistema é capaz de adicionar veículos, listar os disponíveis, alugar e devolver veículos, proporcionando uma interface interativa para o usuário. Para acesso a pasta onde está o arquivo do código, basta acessar a pasta com o nome de Aluguel de Carros e em AluguelDeCarros.py .
 
 # Funcionalidades
 
